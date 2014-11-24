@@ -1,0 +1,10 @@
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\EntityFramework.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\bin\Debug\EntityFramework.xml
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.initial.resources
+C:\Users\ewr7njq\Documents\GitHub\countingk\CountingKs.Data\obj\Debug\CountingKs.Data.csproj.GenerateResource.Cache
